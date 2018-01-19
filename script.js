@@ -2,7 +2,7 @@
 
 function startfunction (){
 
-  variable = get.emlementbyid(id)
+  variable = document.get.emlementbyid(id)
   
   alert("variable")
 }
